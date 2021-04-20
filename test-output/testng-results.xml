@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48734" started-at="2021-04-17T07:16:45Z" finished-at="2021-04-17T07:17:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48734" started-at="2021-04-17T07:16:45Z" finished-at="2021-04-17T07:17:33Z">
+      <class name="org.automation.AtactinAutomation">
+        <test-method status="PASS" signature="oneTime()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="oneTime" is-config="true" duration-ms="17203" started-at="2021-04-17T07:16:45Z" finished-at="2021-04-17T07:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneTime -->
+        <test-method status="PASS" signature="beforeScreenShot()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="beforeScreenShot" is-config="true" duration-ms="584" started-at="2021-04-17T07:17:02Z" finished-at="2021-04-17T07:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeScreenShot -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="tc1" duration-ms="10535" started-at="2021-04-17T07:17:03Z" finished-at="2021-04-17T07:17:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="AfterScreenShot()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="AfterScreenShot" is-config="true" duration-ms="398" started-at="2021-04-17T07:17:13Z" finished-at="2021-04-17T07:17:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterScreenShot -->
+        <test-method status="PASS" signature="beforeScreenShot()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="beforeScreenShot" is-config="true" duration-ms="469" started-at="2021-04-17T07:17:13Z" finished-at="2021-04-17T07:17:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeScreenShot -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="tc2" duration-ms="5950" started-at="2021-04-17T07:17:14Z" finished-at="2021-04-17T07:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="AfterScreenShot()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="AfterScreenShot" is-config="true" duration-ms="331" started-at="2021-04-17T07:17:20Z" finished-at="2021-04-17T07:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterScreenShot -->
+        <test-method status="PASS" signature="beforeScreenShot()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="beforeScreenShot" is-config="true" duration-ms="373" started-at="2021-04-17T07:17:20Z" finished-at="2021-04-17T07:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeScreenShot -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="tc3" duration-ms="1816" started-at="2021-04-17T07:17:21Z" finished-at="2021-04-17T07:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="AfterScreenShot()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="AfterScreenShot" is-config="true" duration-ms="351" started-at="2021-04-17T07:17:22Z" finished-at="2021-04-17T07:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterScreenShot -->
+        <test-method status="PASS" signature="beforeScreenShot()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="beforeScreenShot" is-config="true" duration-ms="372" started-at="2021-04-17T07:17:23Z" finished-at="2021-04-17T07:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeScreenShot -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="tc4" duration-ms="7476" started-at="2021-04-17T07:17:23Z" finished-at="2021-04-17T07:17:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="AfterScreenShot()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="AfterScreenShot" is-config="true" duration-ms="1962" started-at="2021-04-17T07:17:31Z" finished-at="2021-04-17T07:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterScreenShot -->
+        <test-method status="PASS" signature="beforeScreenShot()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="beforeScreenShot" is-config="true" duration-ms="334" started-at="2021-04-17T07:17:33Z" finished-at="2021-04-17T07:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeScreenShot -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="tc5" duration-ms="82" started-at="2021-04-17T07:17:33Z" finished-at="2021-04-17T07:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="AfterScreenShot()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="AfterScreenShot" is-config="true" duration-ms="295" started-at="2021-04-17T07:17:33Z" finished-at="2021-04-17T07:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterScreenShot -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.automation.AtactinAutomation@3c130745]" name="end" is-config="true" duration-ms="1" started-at="2021-04-17T07:17:33Z" finished-at="2021-04-17T07:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.automation.AtactinAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
