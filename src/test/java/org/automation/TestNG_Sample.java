@@ -22,6 +22,7 @@ public class TestNG_Sample extends BaseClass{
 	//maximize();
 	String name = "ajay";
 	System.out.println("hello i am "+name+", from theni");
+	System.out.println("Modified");
 
 	}
 	
